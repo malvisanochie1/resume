@@ -1,0 +1,13 @@
+body {
+  color: #868282;
+  background-color: #000000;
+  font-family: Arial, sans-serif;
+
+  font-family: "Noto Serif Dives Akuru", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.header{
+  color: #ff7613;
+  margin-top: 10px;
+}
